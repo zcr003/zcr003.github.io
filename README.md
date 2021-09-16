@@ -6,9 +6,9 @@ I'm a 33 year old musician with a Bachelors in Piano Performance from UNM, curre
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/zcr003/hello-world-java)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/zcr003/hello-world-android)
 
 ## Links
 
