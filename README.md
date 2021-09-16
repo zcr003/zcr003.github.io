@@ -11,3 +11,5 @@ I'm a 33 year old musician with a Bachelors in Piano Performance from UNM, curre
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/zachary-ramsey-512356148/)
