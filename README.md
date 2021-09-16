@@ -6,4 +6,8 @@ I'm a 33 year old musician with a Bachelors in Piano Performance from UNM, curre
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
